@@ -1,0 +1,38 @@
+{
+  "name": "apiSearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "teste:staged": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielgentil/apiSearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielgentil/apiSearch/issues"
+  },
+  "homepage": "https://github.com/gabrielgentil/apiSearch#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.16",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "eslint": "^7.14.0",
+    "eslint-config-standard-with-typescript": "^19.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "husky": "^4.3.0",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4"
+  },
+  "dependencies": {
+    "lint-staged": "^10.5.2",
+    "typescript": "^4.1.2"
+  }
+}
